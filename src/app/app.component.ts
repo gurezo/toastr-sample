@@ -15,4 +15,10 @@ export class AppComponent {
   showSuccess() {
     this.toastr.success('Hello world!', 'Toastr fun!');
   }
+
+  showError() {
+    this.toastr.error('everything is broken', 'Major Error', {
+      timeOut: 3000
+    });
+  }
 }
