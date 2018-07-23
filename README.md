@@ -1,4 +1,8 @@
-# ToastrSample
+# toastr-sample
+this is angular toastr sample
+[CodeSeven/toastr](https://github.com/CodeSeven/toastr) isn't used.
+
+# it is botsu!
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.0.
 
